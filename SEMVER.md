@@ -31,27 +31,27 @@ We learned versioning from the best.
 
 ## Microsoft Windows Version History
 
-| Year | Version | Notes |
-|------|---------|-------|
-| 1985 | [1.0](https://en.wikipedia.org/wiki/Windows_1.0) | The beginning |
-| 1987 | [2.0](https://en.wikipedia.org/wiki/Windows_2.0) | Logical |
-| 1990 | [3.0](https://en.wikipedia.org/wiki/Windows_3.0) | Still logical |
-| 1992 | [3.1](https://en.wikipedia.org/wiki/Windows_3.1) | Minor bump |
-| 1993 | [3.11](https://en.wikipedia.org/wiki/Windows_3.1x) | For Workgroups |
-| 1993 | [NT 3.1](https://en.wikipedia.org/wiki/Windows_NT_3.1) | Wait, 3.1 again? |
-| 1994 | [NT 3.5](https://en.wikipedia.org/wiki/Windows_NT_3.5) | Now there's two tracks |
-| 1995 | [**95**](https://en.wikipedia.org/wiki/Windows_95) | 3.11 → 95. Normal. |
-| 1996 | [NT 4.0](https://en.wikipedia.org/wiki/Windows_NT_4.0) | Different track |
-| 1998 | [**98**](https://en.wikipedia.org/wiki/Windows_98) | 95 → 98. Year-based now? |
-| 2000 | [**2000**](https://en.wikipedia.org/wiki/Windows_2000) | Millennium vibes |
-| 2000 | [**ME**](https://en.wikipedia.org/wiki/Windows_ME) | Millennium Edition. Same year as 2000. |
-| 2001 | [**XP**](https://en.wikipedia.org/wiki/Windows_XP) | Letters now |
-| 2007 | [**Vista**](https://en.wikipedia.org/wiki/Windows_Vista) | Full words |
-| 2009 | [**7**](https://en.wikipedia.org/wiki/Windows_7) | Back to numbers |
-| 2012 | [**8**](https://en.wikipedia.org/wiki/Windows_8) | Sequential |
-| 2013 | [8.1](https://en.wikipedia.org/wiki/Windows_8.1) | Point release |
-| 2015 | [**10**](https://en.wikipedia.org/wiki/Windows_10) | Skipped 9 entirely |
-| 2021 | [**11**](https://en.wikipedia.org/wiki/Windows_11) | "10 is the last version" was a lie |
+| Year | Version | "Internal" Version | Notes |
+|------|---------|--------------------|-------|
+| 1985 | [1.0](https://en.wikipedia.org/wiki/Windows_1.0) | 1.0 | The beginning |
+| 1987 | [2.0](https://en.wikipedia.org/wiki/Windows_2.0) | 2.0 | Logical |
+| 1990 | [3.0](https://en.wikipedia.org/wiki/Windows_3.0) | 3.0 | Still logical |
+| 1992 | [3.1](https://en.wikipedia.org/wiki/Windows_3.1) | 3.1 | Minor bump |
+| 1993 | [3.11](https://en.wikipedia.org/wiki/Windows_3.1x) | 3.11 | For Workgroups |
+| 1993 | [NT 3.1](https://en.wikipedia.org/wiki/Windows_NT_3.1) | NT 3.1 | Wait, 3.1 again? |
+| 1994 | [NT 3.5](https://en.wikipedia.org/wiki/Windows_NT_3.5) | NT 3.5 | Now there's two tracks |
+| 1995 | [**95**](https://en.wikipedia.org/wiki/Windows_95) | 4.0 | 3.11 → 95. Normal. |
+| 1996 | [NT 4.0](https://en.wikipedia.org/wiki/Windows_NT_4.0) | NT 4.0 | Different track |
+| 1998 | [**98**](https://en.wikipedia.org/wiki/Windows_98) | 4.10 | 95 → 98. Year-based now? |
+| 2000 | [**2000**](https://en.wikipedia.org/wiki/Windows_2000) | NT 5.0 | Millennium vibes |
+| 2000 | [**ME**](https://en.wikipedia.org/wiki/Windows_ME) | 4.90 | Millennium Edition. Same year as 2000. |
+| 2001 | [**XP**](https://en.wikipedia.org/wiki/Windows_XP) | NT 5.1 | Letters now |
+| 2007 | [**Vista**](https://en.wikipedia.org/wiki/Windows_Vista) | NT 6.0 | Full words |
+| 2009 | [**7**](https://en.wikipedia.org/wiki/Windows_7) | NT 6.1 | Back to numbers |
+| 2012 | [**8**](https://en.wikipedia.org/wiki/Windows_8) | NT 6.2 | Sequential |
+| 2013 | [8.1](https://en.wikipedia.org/wiki/Windows_8.1) | NT 6.3 | Point release |
+| 2015 | [**10**](https://en.wikipedia.org/wiki/Windows_10) | NT 10.0 | Skipped 9 entirely |
+| 2021 | [**11**](https://en.wikipedia.org/wiki/Windows_11) | NT 10.0 | "10 is the last version" was a lie |
 
 ---
 
